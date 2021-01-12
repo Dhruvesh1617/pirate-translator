@@ -1,0 +1,14 @@
+:root
+{
+    --primary-col:black;
+    --secondary-col:antiquewhite;
+}
+body{
+    background-color: var(--primary-col);
+}
+h1
+{
+    color:var(--secondary-col);
+    text-align: center;
+
+}
