@@ -5,10 +5,55 @@
 }
 body{
     background-color: var(--primary-col);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
 }
 h1
 {
     color:var(--secondary-col);
     text-align: center;
+}
+
+.hero .hero-img{
+    margin: auto;
+    display:block;
+    max-width: 400px;
 
 }
+
+main
+{
+    margin: auto;
+    padding: 2rem;
+    max-width: 300px;
+
+}
+
+#txtinput{
+
+    height: 10vh;
+    padding: 2rem;
+    margin: 1rem 0rem ;
+    display: block;
+    width: 90%;
+
+}
+
+#txtoutput{
+
+    height: 8vh;
+    padding: 2rem;
+    margin: 1rem 0rem ;
+    display: block;
+    width: 90%;
+
+}
+
+#Translate{
+
+border: none;
+padding: 1rem;
+box-sizing: border-box;
+
+    }
+

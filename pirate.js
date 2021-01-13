@@ -1,6 +1,6 @@
 var Text_input=document.querySelector("#txtinput");
 var Button_translate=document.querySelector("#Translate");
-var Text_output=document.querySelector("txtoutput");
+var Text_output=document.querySelector("#txtoutput");
 var url="https://api.funtranslations.com/translate/pirate.json";
 
 function Urlget(text)
